@@ -73,14 +73,30 @@ My second account
 
 ## 📫 How to reach me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raunit-arya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white" height="28"/>
-  </a>
-  <a href="mailto:raunitarya599@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square&logoColor=white" height="28"/>
-  </a>
-  <a href="https://github.com/RaunitArya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square&logoColor=white" height="28"/>
-  </a>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <!-- LinkedIn -->
+  <div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/raunit-arya" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+    </a>
+    <div style="color: #0077B5; font-size: 13px; margin-top: 8px; font-weight: 500;">Connect</div>
+  </div>
+  
+  <!-- Gmail -->
+  <div style="text-align: center;">
+    <a href="mailto:raunitarya599@gmail.com" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
+    </a>
+    <div style="color: #DB4437; font-size: 13px; margin-top: 8px; font-weight: 500;">Contact</div>
+  </div>
+  
+  <!-- GitHub -->
+  <div style="text-align: center;">
+    <a href="https://github.com/raunitArya78" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/48/github.png" width="40" alt="GitHub"/>
+    </a>
+    <div style="color: #181717; font-size: 13px; margin-top: 8px; font-weight: 500;">Follow</div>
+  </div>
+</div>
+
+
