@@ -60,6 +60,12 @@ My second account
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitArya78&theme=radical" alt="Raunit's streak stats"/> -->
 </p>
 
+
+## 🔥 Recent Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Bank-Customer-Churn-Prediction)](https://github.com/RaunitArya/Bank-Customer-Churn-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Energy-Consumption)](https://github.com/RaunitArya/Energy-Consumption)
+
+
 ## 🔥 Recent Activity
 
 <!-- GitHub Activity Graph -->
