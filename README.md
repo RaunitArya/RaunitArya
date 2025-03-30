@@ -56,9 +56,11 @@ My second account
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true&theme=radical" alt="Raunit's GitHub stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitArya78&theme=radical" alt="Raunit's streak stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true&theme=tokyonight" alt="Raunit's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunitArya&theme=tokyonight" alt="Raunit's streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
+
 
 
 ## 🔥 Recent Projects
