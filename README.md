@@ -100,7 +100,7 @@ My second account
   
   <!-- GitHub -->
   <div style="text-align: center;">
-    <a href="https://github.com/raunitArya78" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/RaunitArya" target="_blank" style="text-decoration: none;">
       <img src="https://img.icons8.com/fluent/48/github.png" width="40" alt="GitHub"/>
     </a>
     <div style="color: #181717; font-size: 13px; margin-top: 8px; font-weight: 500;">Follow</div>
