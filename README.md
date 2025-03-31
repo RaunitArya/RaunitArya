@@ -64,8 +64,9 @@ My second account
 
 
 ## 🔥 Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Bank-Customer-Churn-Prediction&theme=tokyonight)](https://github.com/RaunitArya/Bank-Customer-Churn-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Movie-Recommendation&theme=tokyonight)](https://github.com/RaunitArya/Movie-Recommendation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Energy-Consumption&theme=tokyonight)](https://github.com/RaunitArya/Energy-Consumption)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Bank-Customer-Churn-Prediction&theme=tokyonight)](https://github.com/RaunitArya/Bank-Customer-Churn-Prediction)
 
 
 ## 🔥 Recent Activity
