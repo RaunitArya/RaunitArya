@@ -17,11 +17,12 @@ My second account
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" title="PyCharm" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" title="Eclipse" alt="Eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=github,bash" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions" alt="GitHub Actions"/>
 
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
@@ -37,7 +38,7 @@ My second account
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=aws alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,fastapi,appwrite,aws" alt="Tech Stack"/>
  <img src="https://skillicons.dev/icons?i=docker alt="Tech Stack"/>
 
   <!-- Additional Tools -->
@@ -45,7 +46,6 @@ My second account
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" title="Streamlit" alt="Streamlit" style="background:white;padding:5px;border-radius:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" title="Selenium" alt="Selenium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" alt="FastAPI"/>
 </p>
 
 ## 🐍 My Contribution Snake
