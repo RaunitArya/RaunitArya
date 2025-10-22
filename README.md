@@ -167,7 +167,7 @@ My second account
 </p>
 
 
-## Hacktober-Fest Badges 
+## 🎃 Hacktober-Fest Badges 
 [![An image of @raunitarya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raunitarya)](https://holopin.io/@raunitarya)
 
 
