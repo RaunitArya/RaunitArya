@@ -3,6 +3,8 @@
 
 I'm a passionate developer & tech enthusiast who loves exploring new technologies and solving problems. Whether it's coding, learning, or building, I'm always up for a challenge!
 
+![Profile views](https://komarev.com/ghpvc/?username=RaunitArya&style=flat)
+
 My second account 
 [![Follow Me](https://img.shields.io/badge/Follow%20Me-GitHub-black?style=social&logo=github)](https://github.com/raunitArya78)
 
