@@ -51,11 +51,10 @@ My second account
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,aws,azure" alt="Tech Stack"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Tech Stack"/>
 
   <!-- Additional Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" title="Excel" alt="Excel" style="background:#217346;padding:5px;border-radius:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" title="Streamlit" alt="Streamlit" style="background:white;padding:5px;border-radius:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" title="Selenium" alt="Selenium"/>
 </p>
