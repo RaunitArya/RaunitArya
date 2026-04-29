@@ -136,10 +136,10 @@ My second account
 
 ## 📊 GitHub Stats
 
-<p >
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true&theme=tokyonight" alt="Raunit's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunitArya&theme=tokyonight" alt="Raunit's streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/>
 </p>
 
 
@@ -148,8 +148,8 @@ My second account
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Movie-Recommendation&theme=tokyonight)](https://github.com/RaunitArya/Movie-Recommendation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Energy-Consumption&theme=tokyonight)](https://github.com/RaunitArya/Energy-Consumption)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Bank-Customer-Churn-Prediction&theme=tokyonight)](https://github.com/RaunitArya/Bank-Customer-Churn-Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Raunit_Arya_MCA1_Inlfuenza-Outbreak-Prediction-via-Twitter&theme=tokyonight)](https://github.com/RaunitArya/Raunit_Arya_MCA1_Inlfuenza-Outbreak-Prediction-via-Twitter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaunitArya&repo=Azure-Cost-Analyzer-&theme=tokyonight)](https://github.com/RaunitArya/Azure-Cost-Analyzer-)
 
 
 ## 🔥 Recent Activity
