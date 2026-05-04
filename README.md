@@ -17,7 +17,7 @@ My second account
   <!-- Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" title="PyCharm" alt="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" title="Eclipse" alt="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=neovim" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github,bash,markdown" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions" alt="GitHub Actions"/>
@@ -25,13 +25,12 @@ My second account
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="Tech Stack"/>
   <!-- Web Frameworks -->
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" title="Vite" alt="Vite"/>
+   <img src="https://skillicons.dev/icons?i=bun" alt="Tech Stack"/>
 
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,appwrite,firebase,vercel"/>
   <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" width="50" title="npm" alt="npm" ></img>
@@ -50,7 +49,7 @@ My second account
   <img src="https://devicon-website.vercel.app/api/kaggle/original-wordmark.svg" width="50"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Tech Stack"/>
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,aws,azure" alt="Tech Stack"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Tech Stack"/>
 
@@ -145,9 +144,9 @@ My second account
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true&theme=tokyonight" alt="Raunit's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunitArya&theme=tokyonight" alt="Raunit's streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/>
 </p>
 
 
@@ -170,7 +169,7 @@ My second account
 <p align="justify">
   <img width="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain.png" />
   <img width="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph.png" />
-  <img width="50" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/notion.png" />
+  <img src="https://skillicons.dev/icons?i=linux,vim,go" alt="Tech Stack"/>
   <img src="https://skillicons.dev/icons?i=kubernetes,kafka,matplotlib" alt="Tech Stack"/>
 
 </p>
