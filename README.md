@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev3/RaunitArya" alt="Banner" style="width:100%;">
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hi+there%2C+I'm+Raunit+Arya!+)](https://git.io/typing-svg)
 
