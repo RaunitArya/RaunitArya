@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/dev3/RaunitArya" alt="Banner" style="width:100%;">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/RaunitArya" alt="Banner" style="width:100%;">
   </a>
 </p>
 
