@@ -145,6 +145,8 @@ My second account
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaunitArya/RaunitAryaoutput/pacman-contribution-graph.svg">
 </picture>
 
+![Pacman Game](https://raw.githubusercontent.com/RaunitArya/RaunitArya/output/pacman-contribution-graph.svg)
+
 
 ## 📊 GitHub Stats
 
