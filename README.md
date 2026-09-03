@@ -152,19 +152,23 @@ My second account
 
 ## 📊 GitHub Stats
 
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=RaunitArya&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=Raunit_Arya&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunitArya&theme=tokyonight&show_icons=true&layout=compact" alt="Top Languages"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunitArya&theme=tokyonight" alt="Raunit's streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true&theme=tokyonight" alt="Raunit's GitHub stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RaunitArya&show_icons=true" alt="Raunit's GitHub stats"/> -->
 </p>
 
 
 
 
-## 🔥 Recent Activity
+
+<!--## 🔥 Recent Activity -->
 
 <!-- GitHub Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunitArya&theme=react-dark&hide_border=true)](https://github.com/RaunitArya)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunitArya&theme=react-dark&hide_border=true)](https://github.com/RaunitArya) -->
 
 
 ## 🌱 Currently Learning
